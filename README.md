@@ -202,12 +202,14 @@ Use flood tools only inside an isolated lab environment that you own or control.
 
 ---
 
-Citation
+## Citation
 
 If you use this work in academic contexts, please cite:
 
 H. Pankhania, D. Sharma, H. Sharma, G. Kaur, A. Bandara. 5G Security Testing in Autonomous Mining Vehicles. Curtin University, 2025.
 
-Maintainer
+---
+
+## Maintainer
 
 For repo questions or issues, open a GitHub Issue and tag @hirdyasharma.
